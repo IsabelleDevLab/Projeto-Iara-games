@@ -4,6 +4,7 @@ O projeto Iara Games é uma plataforma online para jogadores, desenvolvedores e 
 
 Tecnologias Utilizadas: 
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript 
+
 Backend: JavaScript
 Integração de API: RAWG API
